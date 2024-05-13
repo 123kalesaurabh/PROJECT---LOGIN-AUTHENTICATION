@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+    background-color:darkgrey;
+    position: static;
+    
+}
+h2{
+    margin-top: 5%;
+    text-align: center;
+}
+div{
+    background-color: rgb(141, 172, 172);
+    margin-top: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    /* align-items: center; */
+    padding-left: 40px;
+    /* padding-bottom: 2px; */
+    /* padding-top: 5px; */
+    border-radius: 10px;
+    box-shadow: inset;
+    /* position: fixed; */
+}
+form{
+    padding: top 20px;
+    padding: bottom 20px;
+    padding: right 20px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    /* color: aliceblue; */
+    /* align-self: center; */
+    margin-left: 45px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: large;
+    text-align: center;
+}
